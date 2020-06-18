@@ -1,0 +1,19 @@
+{
+    "name": "rutul/contact",
+    "description": "this will send email to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rutul Thakkar",
+            "email": "rutul@krishaweb.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rutul\\Contact\\": "src/"
+        }
+    }
+}
