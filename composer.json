@@ -17,10 +17,10 @@
         }
     },
     "extra": {
-    "laravel": {
-        "providers": [
-            "Rutul\\Contact\\ContactServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Rutul\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
-},
 }
